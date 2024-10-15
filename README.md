@@ -1,0 +1,1 @@
+LFC Final CSV file contains all attacking data for Liverpool FC players during the 2023/2024 English Premier League Season. I scraped the data from FBref and cleaned it to include specific attacking metrics.
